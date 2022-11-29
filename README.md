@@ -1,1 +1,3 @@
-# XYZ-S
+# XYZ
+This is just calculator
+seoggeonjin@gmail.com
